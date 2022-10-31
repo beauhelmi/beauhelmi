@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/b34u_helmi" target="blank"><img src="https://img.shields.io/twitter/follow/b34u_helmi?logo=twitter&style=for-the-badge" alt="b34u_helmi" /></a> </p>
 
-- 🔭 I’m currently working on **QR Code Component**
+- 🔭 I’m currently working on **AirBnb Clone site**
 
 - 🌱 I’m currently learning **JavaScript and React**
 
