@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://twitter.com/b34u_helmi" target="blank"><img src="https://img.shields.io/twitter/follow/b34u_helmi?logo=twitter&style=for-the-badge" alt="b34u_helmi" /></a> </p>
 
-- 🔭 I’m currently working on **AirBnb Clone site**
+- 🔭 I’m currently working on **Fully responsive Modern Restaurant Application**
 
-- 🌱 I’m currently learning **JavaScript and React**
+- 🌱 I’m currently learning **Google IT Automation with Python**
 
-- 🤝 I’m looking for help with **JavaScript and React**
+- 🤝 I’m looking for help with **Frontend Development**
 
 - 👨‍💻 All of my projects are available at [https://codepen.io/beauhelmi](https://codepen.io/beauhelmi)
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **beauhelmi@gmail.com**
 
-- ⚡ Fun fact **started coding this year, hoping to make ends meet with coding, striving and learning coding everyday**
+- ⚡ Fun fact **started coding in September 2022, hoping to make ends meet with coding, striving and learning coding everyday**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
