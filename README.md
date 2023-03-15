@@ -4,15 +4,15 @@
 
 <p align="left"> <a href="https://twitter.com/b34u_helmi" target="blank"><img src="https://img.shields.io/twitter/follow/b34u_helmi?logo=twitter&style=for-the-badge" alt="b34u_helmi" /></a> </p>
 
-- 🔭 I’m currently working on **Fully responsive Modern Restaurant Application**
+- 🔭 I’m currently working on **learning my family directory**
 
-- 🌱 I’m currently learning **Google IT Automation with Python**
+- 🌱 I’m currently learning at**42KL**
 
 - 🤝 I’m looking for help with **Frontend Development**
 
 - 👨‍💻 All of my projects are available at [https://codepen.io/beauhelmi](https://codepen.io/beauhelmi)
 
-- 💬 Ask me about **running(Im pretty good at this)**
+- 💬 Ask me about **anything, Im a pretty good listener**
 
 - 📫 How to reach me **beauhelmi@gmail.com**
 
