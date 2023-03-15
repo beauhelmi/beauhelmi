@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **finding jobs!!!!!**
 
-- 👨‍💻 All of my details are available at [https://burhanuddinhelmi.netlify.app](https://burhanuddinhelmi.netlify.app)
+- 👨‍💻 All of my details are available at [BEAU HELMI](https://burhanuddinhelmi.netlify.app)
 
 - 💬 Ask me about **anything, Im a pretty good listener**
 
