@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **Designing my very own family directory @** [KHH](https://keluargahajihaniff.netlify.app)
 
-- 🌱 I’m currently learning at**42KL**
+- 🌱 I’m currently learning at **42KL**
 
-- 🤝 I’m looking for help with **finding jobs!!!!!**
+- 🤝 I’m looking for help with **coding!!!!!**
 
-- 👨‍💻 All of my details are available at [BEAU HELMI](https://burhanuddinhelmi.netlify.app)
+- 👨‍💻 All of my details are **available at** [BEAU HELMI](https://burhanuddinhelmi.netlify.app)
 
 - 💬 Ask me about **anything, Im a pretty good listener**
 
