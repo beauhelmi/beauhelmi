@@ -8,15 +8,15 @@
 
 - 🌱 I’m currently learning at **42KL**
 
-- 🤝 I’m looking for help with **coding!!!!!**
+- 🤝 I’m looking for help with **jobs opportunity!**
 
 - 👨‍💻 All of my details are **available at** [BEAU HELMI](https://burhanuddinhelmi.netlify.app)
 
-- 💬 Ask me about **anything, Im a pretty good listener**
+- 💬 Ask me about **working opportunity, im willing to learn and work!**
 
 - 📫 How to reach me **beauhelmi@gmail.com**
 
-- ⚡ Fun fact **started coding in September 2022, hoping to make ends meet with coding, striving and learning coding everyday**
+- ⚡ Fun fact **started coding in September22, tried FCC and Scrimba, then I got covid around November22 and stop doing coding until I got back my motivation around February23, learning back Frontend development and Python and started to go to 42KL in hope of learning C will make learning anything else seems easier, hoping to make ends meet with coding, striving and learning coding everyday**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
