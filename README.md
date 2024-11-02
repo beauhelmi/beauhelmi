@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Burhanuddin</h1>
-<h3 align="center">A passionate self-taught front end developer from KL</h3>
+<h3 align="center">A passionate self-taught developer from KL</h3>
 <img align="right" alt="coding" width="400" src="https://cloudinary.com/blog/wp-content/uploads/sites/12/2022/02/Animations_with_HTML5_2000x1100_v2-1.gif">
 
 <p align="left"> <a href="https://twitter.com/b34u_helmi" target="blank"><img src="https://img.shields.io/twitter/follow/b34u_helmi?logo=twitter&style=for-the-badge" alt="b34u_helmi" /></a> </p>
 
 - 🔭 I’m currently working on **Designing my very own family directory @** [KHH](https://keluargahajihaniff.netlify.app)
 
-- 🌱 I’m currently learning at **42KL**
+- 🌱 I’m currently learning at @[KelasProgramming](https://kelasprogramming.com/intensif-laravel/)
 
 - 🤝 I’m looking for help with **jobs opportunity!**
 
