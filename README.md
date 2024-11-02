@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Designing my very own family directory @** [KHH](https://keluargahajihaniff.netlify.app)
 
-- 🌱 I’m currently learning at **[KelasProgramming]**(https://kelasprogramming.com/intensif-laravel/)
+- 🌱 I’m currently learning at **KelasProgramming**(https://kelasprogramming.com/intensif-laravel/)
 
 - 🤝 I’m looking for help with **jobs opportunity!**
 
