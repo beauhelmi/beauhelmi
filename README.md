@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **beauhelmi@gmail.com**
 
-- ⚡ **Fun fact: I dove into coding in September 2022, armed with FreeCodeCamp and Scrimba, ready to conquer the digital world...until COVID hit in November, and I hit pause on everything. Fast-forward to February 2023, I was back with a vengeance, tackling frontend dev and Python, then joined 42KL thinking, ‘Yeah, learning C will make everything else a breeze!’ (Spoiler: it didn’t.) My mission? To code my way to glory—or at least to paying the bills. But life happened, and I took a year off. Now it’s November 2024, and guess what? I’m back, ready to fire up the code editor and make this dream a reality...again!**
+- ⚡ **Fun fact: I dove into coding in September 2022, armed with FreeCodeCamp and Scrimba, ready to conquer the digital world...until I got COVID hit in November, and I hit pause on everything. Fast-forward to February 2023, I was back with a vengeance, tackling frontend dev and Python, then joined 42KL thinking, ‘Yeah, learning C will make everything else a breeze!’ (Spoiler: it didn’t.) My mission? To code my way to glory—or at least to paying the bills. But life happened, and I took a year off. Now it’s November 2024, and guess what? I’m back, ready to fire up the code editor and make this dream a reality...again!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
